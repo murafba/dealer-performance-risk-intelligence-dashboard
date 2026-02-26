@@ -6,6 +6,10 @@ This Business Intelligence case study analyzes dealer performance, seasonal sale
 
 The objective is to evaluate revenue drivers, identify systemic demand patterns, and assess operational risk distribution across dealers and vehicle models.
 
+## 📸 Dashboard Preview
+### Sales Dashboard
+![Sales Dashboard](images/sales_dashboard.png)
+
 ---
 
 ## 🎯 Business Objectives
